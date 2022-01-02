@@ -1,0 +1,15 @@
+{
+  "name": "edu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  },
+  "scripts": {
+    "dev": "node-sass assets/scss/main.scss main.css -w"
+  },
+  "author": "",
+  "license": "ISC"
+}

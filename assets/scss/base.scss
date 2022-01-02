@@ -1,0 +1,17 @@
+@import './constants.scss';
+
+body {
+  font-family: $font;
+}
+
+html {
+  font-size: 14px;
+  font-weight: 400;
+  box-sizing: border-box;
+  color: $black-text;
+}
+
+.wide {
+  max-width: 1296px;
+  margin: 0 auto;
+}
